@@ -76,3 +76,6 @@ p {
 .right-footer {
   color: gray;
 }
+.right-footer li {
+  line-height: 3em;
+}

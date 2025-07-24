@@ -768,6 +768,14 @@
           "email": "enamul.dev01@gmail.com"
         },
         "timeSpent": 23
+      },
+      {
+        "date": "2025-07-24T12:53:16.156Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1080
       }
     ],
     "styles.css": [
@@ -3334,6 +3342,46 @@
           "email": "enamul.dev01@gmail.com"
         },
         "timeSpent": 20
+      },
+      {
+        "date": "2025-07-24T12:34:21.042Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-07-24T12:35:15.781Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 55
+      },
+      {
+        "date": "2025-07-24T12:54:46.481Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 34
+      },
+      {
+        "date": "2025-07-24T12:54:54.683Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T13:22:26.052Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1651
       }
     ]
   }
