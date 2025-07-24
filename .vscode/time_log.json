@@ -1,0 +1,1544 @@
+{
+  "assignment-002": {
+    "index.html": [
+      {
+        "date": "2025-07-24T07:35:24.249Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 51
+      },
+      {
+        "date": "2025-07-24T07:35:24.379Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 51
+      },
+      {
+        "date": "2025-07-24T07:36:11.459Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-07-24T07:36:26.554Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-07-24T07:37:34.226Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 67
+      },
+      {
+        "date": "2025-07-24T07:37:34.318Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 68
+      },
+      {
+        "date": "2025-07-24T07:38:34.403Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 60
+      },
+      {
+        "date": "2025-07-24T07:38:43.498Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T07:38:43.683Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T07:39:04.279Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-07-24T07:39:04.327Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-07-24T07:39:39.222Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 35
+      },
+      {
+        "date": "2025-07-24T07:39:45.040Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T07:39:57.844Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-07-24T07:40:36.549Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-07-24T07:40:36.746Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2025-07-24T07:40:37.925Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T07:41:48.106Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-07-24T07:42:03.393Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T07:45:16.862Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 60
+      },
+      {
+        "date": "2025-07-24T07:45:37.724Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-07-24T07:51:11.720Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 35
+      },
+      {
+        "date": "2025-07-24T07:53:09.458Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 117
+      },
+      {
+        "date": "2025-07-24T07:53:09.693Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 118
+      },
+      {
+        "date": "2025-07-24T07:53:56.758Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-07-24T07:59:31.647Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 335
+      },
+      {
+        "date": "2025-07-24T07:59:32.660Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:00:05.809Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2025-07-24T08:00:06.008Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2025-07-24T08:00:59.788Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 54
+      },
+      {
+        "date": "2025-07-24T08:02:27.446Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T08:03:50.228Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T08:04:41.561Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 51
+      },
+      {
+        "date": "2025-07-24T08:04:55.595Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-07-24T08:04:59.508Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-07-24T08:05:00.956Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:05:22.698Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 22
+      },
+      {
+        "date": "2025-07-24T08:05:39.156Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-07-24T08:05:51.781Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T08:05:51.840Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-07-24T08:06:35.582Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2025-07-24T08:11:01.130Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T08:12:35.900Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-07-24T08:12:35.955Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-07-24T08:12:43.821Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T08:12:45.250Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:13:25.402Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 40
+      },
+      {
+        "date": "2025-07-24T08:13:25.478Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 40
+      },
+      {
+        "date": "2025-07-24T08:14:04.239Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-07-24T08:14:05.186Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:14:49.322Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2025-07-24T08:14:50.340Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:14:54.832Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T08:15:02.537Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T08:15:14.469Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T08:16:24.468Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T08:16:38.306Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-07-24T08:17:11.634Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2025-07-24T08:18:03.230Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 52
+      },
+      {
+        "date": "2025-07-24T08:25:07.952Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-07-24T08:25:08.027Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-07-24T08:25:28.278Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-07-24T08:25:28.508Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-07-24T08:26:07.666Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-07-24T08:26:49.566Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 42
+      },
+      {
+        "date": "2025-07-24T08:26:52.533Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-07-24T08:27:54.715Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2025-07-24T08:27:56.344Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:27:57.608Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:28:17.601Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-07-24T08:28:22.919Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T08:28:26.931Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-07-24T08:28:29.672Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-07-24T08:32:45.973Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 49
+      },
+      {
+        "date": "2025-07-24T08:33:46.320Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2025-07-24T08:33:46.439Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2025-07-24T08:34:14.732Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2025-07-24T08:34:16.326Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:34:39.902Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-07-24T08:34:59.075Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-07-24T08:35:17.480Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-07-24T08:35:17.579Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-07-24T08:35:55.890Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-07-24T08:36:54.305Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-07-24T08:36:55.243Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:37:02.357Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T08:37:09.105Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T08:37:12.955Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-07-24T08:37:18.086Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T08:39:59.336Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      }
+    ],
+    "styles.css": [
+      {
+        "date": "2025-07-24T07:41:26.619Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2025-07-24T07:42:17.488Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-07-24T07:42:52.702Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T07:43:06.854Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-07-24T07:43:15.459Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T07:43:26.653Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-07-24T07:43:33.608Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T07:43:44.876Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-07-24T07:44:16.685Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-07-24T07:46:14.638Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-07-24T07:46:16.404Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T07:46:22.885Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-07-24T07:46:22.940Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T07:46:55.381Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2025-07-24T07:46:56.923Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T07:47:01.763Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T07:47:04.682Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-07-24T07:47:09.312Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T07:47:15.578Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-07-24T07:47:27.930Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T07:47:33.083Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T07:47:46.063Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-07-24T07:47:47.475Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T07:48:05.764Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-07-24T07:48:14.171Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T07:48:41.692Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T07:49:10.656Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-07-24T07:49:11.950Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T07:49:21.686Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-07-24T07:49:26.201Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-07-24T07:49:34.272Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T07:49:41.547Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T07:49:47.155Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-07-24T07:49:51.357Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-07-24T08:01:06.269Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:01:22.077Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-07-24T08:01:23.674Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:01:57.236Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 34
+      },
+      {
+        "date": "2025-07-24T08:02:50.357Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-07-24T08:03:01.674Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-07-24T08:03:17.212Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2025-07-24T08:07:22.352Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2025-07-24T08:07:25.582Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2025-07-24T08:07:26.708Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:08:48.108Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 82
+      },
+      {
+        "date": "2025-07-24T08:08:52.866Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T08:09:01.109Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T08:09:09.048Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T08:09:14.620Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-07-24T08:09:19.979Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2025-07-24T08:09:29.399Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T08:09:35.987Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-07-24T08:10:07.615Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-07-24T08:10:07.662Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 32
+      },
+      {
+        "date": "2025-07-24T08:10:45.211Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2025-07-24T08:10:46.680Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:11:32.453Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2025-07-24T08:11:44.566Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T08:18:19.974Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T08:18:21.424Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:18:30.602Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T08:18:43.815Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-07-24T08:19:10.504Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2025-07-24T08:19:37.426Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T08:20:13.229Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2025-07-24T08:21:57.673Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 104
+      },
+      {
+        "date": "2025-07-24T08:22:01.147Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2025-07-24T08:22:03.484Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:22:26.298Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 23
+      },
+      {
+        "date": "2025-07-24T08:23:16.086Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2025-07-24T08:23:24.303Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T08:23:43.845Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-07-24T08:23:43.894Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2025-07-24T08:23:59.509Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2025-07-24T08:24:00.499Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:24:12.554Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T08:28:45.293Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 9
+      },
+      {
+        "date": "2025-07-24T08:29:09.713Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2025-07-24T08:29:09.751Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 24
+      },
+      {
+        "date": "2025-07-24T08:29:59.524Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2025-07-24T08:30:16.594Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2025-07-24T08:30:18.768Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:30:19.846Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:30:26.133Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2025-07-24T08:30:27.791Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:31:15.133Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-07-24T08:31:17.711Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:31:56.575Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 39
+      },
+      {
+        "date": "2025-07-24T08:33:00.357Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2025-07-24T08:33:02.045Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:33:15.919Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2025-07-24T08:36:08.328Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2025-07-24T08:36:15.004Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2025-07-24T08:36:17.008Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:38:08.371Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-07-24T08:38:08.417Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2025-07-24T08:38:48.168Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 40
+      },
+      {
+        "date": "2025-07-24T08:38:49.775Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-07-24T08:39:02.331Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2025-07-24T08:39:03.819Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2025-07-24T08:39:14.544Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2025-07-24T08:39:20.300Z",
+        "user": {
+          "name": "enamul",
+          "email": "enamul.dev01@gmail.com"
+        },
+        "timeSpent": 6
+      }
+    ]
+  }
+}
