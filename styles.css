@@ -29,3 +29,22 @@ i {
 p {
   color: #d9d9d9;
 }
+
+.plants-section {
+  margin-top: 7em;
+  margin-bottom: 7em;
+}
+.cards {
+  line-height: 2em;
+}
+.card-img img {
+  margin: 0 auto;
+}
+.card-bottom {
+  text-align: center;
+}
+.card-btn {
+  background-color: #e95a08;
+  width: 17em;
+  color: white;
+}
