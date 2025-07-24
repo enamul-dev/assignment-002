@@ -29,17 +29,17 @@
       <nav>
         <img src="./assets/logo.png" alt="" class="logo" />
         <ul>
-          <li>Home</li>
-          <li>Shop</li>
-          <li>About us</li>
+          <li class="hidden md:inline-block">Home</li>
+          <li class="hidden md:inline-block">Shop</li>
+          <li class="hidden md:inline-block">About us</li>
           <li><i class="fa-solid fa-cart-shopping"></i>Cart ($56)</li>
         </ul>
       </nav>
     </header>
 
     <!--Banner section-->
-    <section class="banner mt-38">
-      <div class="left">
+    <section class="banner flex-col flex-col-reverse md:flex-row mt-38">
+      <div class="left m-2">
         <h1 class="font-bold text-5xl mb-5">
           Always
           <span class="text-orange-500">
@@ -72,7 +72,7 @@
           From classic roses to exotic blooms, we offer a wide variety of fresh.
         </p>
       </div>
-      <div class="grid grid-cols-4 gap-8">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
         <div class="cards">
           <div class="card-img">
             <img src="./assets/sample-flower-image.png" alt="card-img" />
@@ -80,7 +80,7 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
         <div class="cards">
@@ -90,7 +90,7 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
         <div class="cards">
@@ -100,7 +100,7 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
         <div class="cards">
@@ -110,7 +110,7 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
         <div class="cards">
@@ -120,7 +120,7 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
         <div class="cards">
@@ -130,7 +130,7 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
 
@@ -141,7 +141,7 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
         <div class="cards">
@@ -151,23 +151,25 @@
           <div class="card-bottom">
             <h4 class="">Lily Blossom</h4>
             <p class="font-bold text-black!">20 USD</p>
-            <button class="card-btn">Add to Cart</button>
+            <button class="card-btn md:w-full pl-5 pr-5">Add to Cart</button>
           </div>
         </div>
       </div>
     </section>
 
     <!--Plants Lovers Section-->
-    <section class="plant-lover-section flex justify-between items-center">
-      <div class="relative">
+    <section
+      class="plant-lover-section flex flex-col md:flex-row justify-between items-center"
+    >
+      <div class="relative mb-10">
         <img
-          class="absolute -right-25 -top-25 w-60"
+          class="absolute -right-25 -top-25 w-60 hidden md:inline-block"
           src="./assets/trusted-badge.png"
           alt=""
         />
         <img src="./assets/flower-store.png" alt="" />
       </div>
-      <div>
+      <div class="ml-2">
         <h1 class="font-bold text-5xl mb-5">
           Flower & Plants <br />
           Lover
@@ -195,24 +197,26 @@
     <!--Join section-->
 
     <section class="join flex flex-col items-center text-center mb-10">
-      <div class="absolute top-40">
+      <div class="absolute top-30">
         <h1 class="font-bold text-5xl text-white">Join the colorful Bunch</h1>
       </div>
 
-      <div class="flex absolute top-60">
+      <div class="flex absolute top-50 mt-10 ml-5 mr-5">
         <input
           class="border-none w-full py-2 px-3 text-gray-700 bg-white"
           id="username"
           type="text"
           placeholder="Write email"
         />
-        <button class="card-btn">Subscribe</button>
+        <button class="footer-btn">Subscribe</button>
       </div>
     </section>
 
     <!--Footer section-->
 
-    <footer class="flex justify-between mb-10">
+    <footer
+      class="flex flex-col md:flex-row justify-between mb-10 ml-10 gap-10"
+    >
       <div class="left-footer">
         <img src="./assets/logo.png" alt="footer-logo" />
         <p class="pt-10">
@@ -221,7 +225,9 @@
           flower shop.
         </p>
       </div>
-      <div class="right-footer flex gap-20 items-center">
+      <div
+        class="right-footer flex flex-col md:flex-row md:gap-20 md:items-center"
+      >
         <div>
           <ul>
             <li>Home</li>
@@ -240,7 +246,7 @@
             <li>Help Center</li>
           </ul>
         </div>
-        <div class="flex gap-10">
+        <div class="flex gap-10 mt-10 md:mt-0">
           <img src="./assets/icon-linkedin.png" alt="icons" />
           <img class="h-7 mt-1" src="./assets/icon-twitter.png" alt="icons" />
           <img src="./assets/icon-facebook.png" alt="icons" />

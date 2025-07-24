@@ -46,7 +46,7 @@ p {
 }
 .card-btn {
   background-color: #e95a08;
-  width: 17em;
+  /* width: 17em; */
   color: white;
 }
 
@@ -78,4 +78,9 @@ p {
 }
 .right-footer li {
   line-height: 3em;
+}
+.footer-btn {
+  background-color: #e95a08;
+  width: 10em;
+  color: white;
 }
