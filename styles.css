@@ -68,7 +68,7 @@ p {
   margin-right: -50vw;
   width: 100vw;
   height: 50vh;
-  background-image: url("../assets/news-letter-bg.png");
+  background-image: url("./assets/news-letter-bg.png");
   background-size: cover;
   background-position: center;
 }
